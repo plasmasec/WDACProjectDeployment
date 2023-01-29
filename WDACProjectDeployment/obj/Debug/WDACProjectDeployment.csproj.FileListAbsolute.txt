@@ -1,0 +1,12 @@
+C:\Users\forensics\source\repos\WDACProjectDeployment\WDACProjectDeployment\bin\Debug\WDACProjectDeployment.exe.config
+C:\Users\forensics\source\repos\WDACProjectDeployment\WDACProjectDeployment\bin\Debug\WDACProjectDeployment.exe
+C:\Users\forensics\source\repos\WDACProjectDeployment\WDACProjectDeployment\bin\Debug\WDACProjectDeployment.pdb
+C:\Users\forensics\source\repos\WDACProjectDeployment\WDACProjectDeployment\obj\Debug\WDACProjectDeployment.csproj.AssemblyReference.cache
+C:\Users\forensics\source\repos\WDACProjectDeployment\WDACProjectDeployment\obj\Debug\WDACProjectDeployment.csproj.CoreCompileInputs.cache
+C:\Users\forensics\source\repos\WDACProjectDeployment\WDACProjectDeployment\obj\Debug\WDACProjectDeployment.exe
+C:\Users\forensics\source\repos\WDACProjectDeployment\WDACProjectDeployment\obj\Debug\WDACProjectDeployment.pdb
+C:\Users\forensics\source\repos\WDACProjectDeployment\WDACProjectDeployment\bin\Debug\System.Management.Automation.dll
+C:\Users\forensics\source\repos\WDACProjectDeployment\WDACProjectDeployment\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\forensics\source\repos\WDACProjectDeployment\WDACProjectDeployment\bin\Debug\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\forensics\source\repos\WDACProjectDeployment\WDACProjectDeployment\bin\Debug\System.Management.Automation.xml
+C:\Users\forensics\source\repos\WDACProjectDeployment\WDACProjectDeployment\obj\Debug\WDACProjectDeployment.csproj.CopyComplete
